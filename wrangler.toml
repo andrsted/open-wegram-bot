@@ -1,4 +1,4 @@
-name = "open-wegram-bot123"
+name = "open-wegram-bot"
 main = "src/worker.js"
 compatibility_date = "2023-05-18"
 
